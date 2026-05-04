@@ -1,0 +1,54 @@
+site_name: Histoire de l'Humanité
+site_description: Une histoire philosophique et transculturelle de l'humanité
+site_url: https://serici.github.io/humainH/
+docs_dir: docs
+site_dir: _site
+
+theme:
+  name: material
+  language: fr
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Mode sombre
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Mode clair
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - toc.integrate
+
+nav:
+  - Accueil: INDEX.md
+  - Références:
+    - Index: references/INDEX.md
+    - Glossaire: references/glossaire.md
+    - Sources:
+      - Armstrong: references/sources/armstrong.md
+      - Braudel: references/sources/braudel.md
+      - Campbell: references/sources/campbell.md
+      - Christian: references/sources/christian.md
+      - Diamond: references/sources/diamond.md
+      - Eliade: references/sources/eliade.md
+      - Guenon: references/sources/guenon.md
+      - Harari: references/sources/harari.md
+      - Huxley: references/sources/huxley.md
+      - Ibn Khaldun: references/sources/ibn-khaldun.md
+      - Jaspers: references/sources/jaspers.md
+      - Leibniz: references/sources/leibniz.md
+      - Lévi-Strauss: references/sources/levi-strauss.md
+      - Smil: references/sources/smil.md
+      - Spengler: references/sources/spengler.md
+      - Teilhard: references/sources/teilhard.md
+      - Toynbee: references/sources/toynbee.md
+      - Wilber: references/sources/wilber.md
+
+
+plugins:
+  - search:
+      lang: fr

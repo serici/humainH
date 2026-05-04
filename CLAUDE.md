@@ -1,0 +1,113 @@
+# Histoire de l'Humanité — Instructions Claude CLI
+
+## Vision du Projet
+
+Construction progressive d'une histoire philosophique et transculturelle de l'humanité.
+
+**Angle directeur** : toutes les civilisations humaines ont évolué indépendamment mais en
+parallèle, vers les mêmes grandes idées — éthique, transcendance, conscience individuelle,
+sens de l'existence. L'histoire occidentale n'est qu'un fil parmi d'autres.
+
+**Concept central : la Période Axiale** (Karl Jaspers, 1949)
+Entre ~800 et 200 av. J.-C., simultanément et indépendamment :
+- Grèce : Héraclite, Socrate, Platon, Aristote, Stoïciens
+- Inde : Upanishads, Bouddha (~563-483 av. J.-C.), Jaïnisme
+- Chine : Confucius (~551-479 av. J.-C.), Laozi, Zhuangzi
+- Proche-Orient : Prophètes hébreux, Zoroastre
+→ Même bond conceptuel : l'individu peut accéder à une vérité universelle par la raison et l'éthique.
+
+**Fil philosophique à maintenir dans chaque fichier** :
+- Chercher les parallèles inter-culturels (stoïcisme ↔ détachement bouddhiste, etc.)
+- Signaler les convergences indépendantes (sans influence mutuelle prouvée)
+- Éviter l'eurocentrisme — Europe = un angle parmi d'autres
+
+---
+
+## Structure du Dépôt
+
+```
+histoireH/
+├── docs/                       ← contenu publié (MkDocs)
+│   ├── INDEX.md                   L0 : vue globale
+│   ├── 01-periodes/               L1 : grandes périodes
+│   ├── 02-civilisations/          L2 : civilisations par période
+│   ├── 03-themes/                 L3 : thèmes transversaux
+│   ├── 04-figures/                L4 : figures et textes
+│   └── references/                sources et glossaire
+├── templates/                  ← gabarits (non publiés)
+├── mkdocs.yml                  ← configuration MkDocs
+├── pyproject.toml              ← dépendances Python (uv)
+├── CLAUDE.md                   ← instructions Claude CLI
+└── PROGRESS.md                 ← suivi de session
+```
+
+### Couches de contenu (toutes dans `docs/`)
+
+```
+L0 : Vue globale          → docs/INDEX.md
+L1 : Grandes périodes     → docs/01-periodes/
+L2 : Civilisations        → docs/02-civilisations/{periode}/
+L3 : Thèmes transversaux  → docs/03-themes/
+L4 : Figures et textes    → docs/04-figures/
+```
+
+### Convention de navigation dans chaque fichier
+
+```markdown
+[← Vue globale](../00-vue-globale.md) | [Index](../INDEX.md)
+**Enfants :** [A](./A.md) · [B](./B.md)
+**Connexions :** [Thème X](../../03-themes/X.md) · [Figure Y](../../04-figures/Y.md)
+```
+
+---
+
+## Workflow de Session
+
+Au début de chaque session Claude CLI :
+1. Lire `PROGRESS.md` → savoir où on en est et ce qui est prioritaire
+2. Lire `docs/INDEX.md` → carte de navigation du projet
+3. L'utilisateur indique l'axe à développer
+4. Lire les fichiers existants pertinents avant d'écrire
+5. Créer ou enrichir les fichiers dans `docs/` selon les templates dans `templates/`
+6. Mettre à jour `PROGRESS.md` (section "Dernière session" + "Fait")
+7. Mettre à jour `docs/INDEX.md` et `mkdocs.yml` (section `nav`) si de nouveaux fichiers sont créés
+
+---
+
+## Principes d'Écriture
+
+- **Ton** : synthétique, comparatif, factuel — ni cours magistral, ni essai
+- **Structure** : toujours commencer par le contexte global, puis descendre dans le détail
+- **Comparaisons** : expliciter les parallèles philosophiques entre cultures
+- **Nuance** : noter quand une connexion est établie vs. hypothétique
+- **Longueur** : préférer des fichiers denses et courts à des fichiers exhaustifs et longs
+- **Langue** : français, sauf les termes techniques sans équivalent (Axial Age, etc.)
+
+---
+
+## Templates
+
+Les gabarits sont dans `templates/`. Le contenu créé va dans `docs/` (même arborescence).
+
+| Couche | Template | Usage |
+|--------|----------|-------|
+| L1 | `templates/periode.md` | Une grande période historique |
+| L2 | `templates/civilisation.md` | Une civilisation dans une période |
+| L3 | `templates/theme.md` | Un thème transversal (philo, religion...) |
+| L4 | `templates/figure.md` | Un penseur, texte, ou événement clé |
+
+---
+
+## Grandes Périodes (L1 — feuille de route)
+
+| Code | Période | Dates approx. | Statut |
+|------|---------|---------------|--------|
+| P1 | Préhistoire & Émergence humaine | -300 000 → -3 500 | ☐ |
+| P2 | Premières Civilisations | -3 500 → -800 | ☐ |
+| P3 | **Période Axiale** | -800 → -200 | ☐ |
+| P4 | Empires & Expansion | -200 → 500 | ☐ |
+| P5 | Moyen Âge Mondial | 500 → 1 500 | ☐ |
+| P6 | Révolutions Modernes | 1 500 → 1 800 | ☐ |
+| P7 | Ère Contemporaine | 1 800 → présent | ☐ |
+
+La Période Axiale (P3) est le cœur philosophique — à développer en priorité.
