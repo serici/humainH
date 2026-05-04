@@ -1,8 +1,8 @@
 # Progression du Projet
 
 ## Dernière Session
-- **Date** : 2026-04-30
-- **Travail** : Initialisation complète — structure, CLAUDE.md, templates, références
+- **Date** : 2026-05-04
+- **Travail** : Mise en place de la publication — git, MkDocs Material, CI/CD GitHub Actions, GitHub Pages
 
 ## Fait ✓
 
@@ -51,17 +51,14 @@ Plusieurs points d'entrée possibles selon l'envie :
 4. **Ouvrir un premier thème (L3)** — le détachement, la figure du héros, les mythes fondateurs...
 5. **Compléter les références** — ajouter des sources manquantes (Foucault, Jung, Mumford...)
 
-## Publication
+## Publication ✓
 
-Voir [PUBLICATION.md](./PUBLICATION.md) pour l'analyse complète.
-
-**Recommandation retenue (à valider)** : MkDocs + Material theme
-- Local : `mkdocs serve` → http://localhost:8000 avec hot reload
-- Partage : `mkdocs gh-deploy` → GitHub Pages
-- PDF : plugin `mkdocs-with-pdf`
-- CI/CD : GitHub Actions (5 lignes)
-
-**Prérequis avant de configurer** : initialiser un dépôt git + installer MkDocs
+- [x] Dépôt git initialisé et poussé sur `git@github.com:serici/humainH.git`
+- [x] MkDocs Material installé via `uv` (`uv run mkdocs serve` en local)
+- [x] Contenu déplacé dans `docs/` (structure standard MkDocs)
+- [x] CI/CD GitHub Actions — déploiement automatique à chaque push sur `main`
+- [x] Site live : `https://serici.github.io/humainH/`
+- [ ] PDF : plugin `mkdocs-with-pdf` (optionnel, à ajouter si besoin)
 
 ---
 
