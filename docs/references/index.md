@@ -68,11 +68,12 @@
 ## Cluster 5 — Environnement, Technique & Géographie
 
 *Ces auteurs montrent que les contraintes matérielles produisent des patterns universels.*
+→ **[Lecture du cluster — présentation en dialogue des 4 auteurs](./lectures/cluster5-environnement.md)**
 
 | Source | Angle | Fichier |
 |--------|-------|---------|
-| Fernand Braudel (1949) | La longue durée : géographie et climat façonnent les civilisations | [sources/braudel.md](./sources/braudel.md) |
-| Jared Diamond (1997, 2005) | Géographie, ressources, effondrements — causes matérielles | [sources/diamond.md](./sources/diamond.md) |
+| Fernand Braudel (1949) ★ | La longue durée : géographie et climat façonnent les civilisations | [sources/braudel.md](./sources/braudel.md) · [lecture](./lectures/braudel.md) |
+| Jared Diamond (1997, 2005) ★ | Géographie, ressources, effondrements — causes matérielles | [sources/diamond.md](./sources/diamond.md) · [lecture](./lectures/diamond.md) |
 | Vaclav Smil (2017) | Histoire des civilisations = histoire de la maîtrise de l'énergie | [sources/smil.md](./sources/smil.md) |
 | Lewis Mumford (1934) | La technique façonne la culture — trois phases éo/paléo/néotechnique | [sources/mumford.md](./sources/mumford.md) |
 
