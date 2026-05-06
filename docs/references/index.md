@@ -55,11 +55,12 @@
 ## Cluster 4 — Grande Histoire & Cosmologie
 
 *Ces auteurs situent l'humanité dans un cadre plus large : cosmique ou évolutif.*
+→ **[Lecture du cluster — présentation en dialogue des 3 auteurs](./lectures/cluster4-grande-histoire.md)**
 
 | Source | Angle | Fichier |
 |--------|-------|---------|
-| David Christian (2004) | Big History : du Big Bang à l'humanité, 8 seuils de complexité | [sources/christian.md](./sources/christian.md) |
-| Pierre Teilhard de Chardin | Évolution vers la Noosphère — convergence spirituelle cosmique | [sources/teilhard.md](./sources/teilhard.md) |
+| David Christian (2004) ★ | Big History : du Big Bang à l'humanité, 8 seuils de complexité | [sources/christian.md](./sources/christian.md) · [lecture](./lectures/christian.md) |
+| Pierre Teilhard de Chardin ★ | Évolution vers la Noosphère — convergence spirituelle cosmique | [sources/teilhard.md](./sources/teilhard.md) · [lecture](./lectures/teilhard.md) |
 | Yuval Noah Harari (2011) ★ | Sapiens : histoire populaire, angle biologique et cognitif | [sources/harari.md](./sources/harari.md) · [lecture](./lectures/harari.md) |
 
 ---
