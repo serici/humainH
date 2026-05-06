@@ -41,11 +41,12 @@
 ## Cluster 3 — Mythologie Comparée & Structures Mentales
 
 *Ces auteurs montrent que les structures narratives et cognitives sont universelles.*
+→ **[Lecture du cluster — présentation en dialogue des 4 auteurs](./lectures/cluster3-mythologie.md)**
 
 | Source | Angle | Fichier |
 |--------|-------|---------|
 | Joseph Campbell (1949) ★ | Le monomythe : même structure dans tous les mythes héroïques | [sources/campbell.md](./sources/campbell.md) · [lecture](./lectures/campbell.md) |
-| Claude Lévi-Strauss (1958) | Structures mentales profondes partagées — cultures = variations | [sources/levi-strauss.md](./sources/levi-strauss.md) |
+| Claude Lévi-Strauss (1958) ★ | Structures mentales profondes partagées — cultures = variations | [sources/levi-strauss.md](./sources/levi-strauss.md) · [lecture](./lectures/levi-strauss.md) |
 | Mircea Eliade (1957) | Expérience universelle du sacré, mythes du retour éternel | [sources/eliade.md](./sources/eliade.md) |
 | Donald Brown (1991) | Universaux humains : 400+ traits attestés dans toutes les cultures | [sources/brown.md](./sources/brown.md) |
 
