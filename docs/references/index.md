@@ -27,12 +27,13 @@
 ## Cluster 2 — Philosophie Pérenne & Sagesse Universelle
 
 *Ces auteurs soutiennent qu'une sagesse unique se cache sous la diversité des traditions.*
+→ **[Lecture du cluster — présentation en dialogue des 4 auteurs](./lectures/cluster2-philosophie-perenne.md)**
 
 | Source | Angle | Fichier |
 |--------|-------|---------|
 | Leibniz (XVIIe s.) | A forgé le terme *philosophia perennis* | [sources/leibniz.md](./sources/leibniz.md) |
 | Kant (XVIIIe s.) | L'impératif catégorique — la règle d'or formalisée par la raison pure | [sources/kant.md](./sources/kant.md) |
-| Aldous Huxley (1945) | Anthologie : tous les mystiques cherchent la même chose | [sources/huxley.md](./sources/huxley.md) |
+| Aldous Huxley (1945) ★ | Anthologie : tous les mystiques cherchent la même chose | [sources/huxley.md](./sources/huxley.md) · [lecture](./lectures/huxley.md) |
 | René Guénon (1921+) | Traditionalisme : vérité métaphysique primordiale | [sources/guenon.md](./sources/guenon.md) |
 
 ---
