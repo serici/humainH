@@ -30,6 +30,7 @@ nav:
     - Par où commencer: references/par-ou-commencer.md
     - Glossaire: references/glossaire.md
     - Lectures:
+      - Cluster 1 — Convergence & Cycles: references/lectures/cluster1-convergence.md
       - Jaspers: references/lectures/jaspers.md
       - Armstrong: references/lectures/armstrong.md
       - Campbell: references/lectures/campbell.md

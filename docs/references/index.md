@@ -11,6 +11,7 @@
 ## Cluster 1 — Convergence & Cycles Civilisationnels
 
 *Ces auteurs ont observé que les civilisations suivent des patterns similaires, indépendamment.*
+→ **[Lecture du cluster — présentation en dialogue des 6 auteurs](./lectures/cluster1-convergence.md)**
 
 | Source | Angle | Fichier |
 |--------|-------|---------|
