@@ -1,6 +1,7 @@
 # Vaclav Smil — Energy and Civilization (2017)
 
 [← Index Références](../INDEX.md) | [Glossaire](../glossaire.md)
+
 **Cluster :** [Environnement, Technique & Géographie](../INDEX.md#cluster-5--environnement-technique--géographie)
 
 ---

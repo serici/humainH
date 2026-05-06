@@ -1,6 +1,7 @@
 # Jared Diamond — Guns, Germs and Steel / Collapse (1997, 2005)
 
 [← Index Références](../INDEX.md) | [Glossaire](../glossaire.md)
+
 **Cluster :** [Environnement, Technique & Géographie](../INDEX.md#cluster-5--environnement-technique--géographie)
 
 ---
@@ -59,7 +60,7 @@ Utile pour deux dimensions du projet : (1) comprendre pourquoi certaines civilis
 → **Même angle géographique** : [Braudel](./braudel.md) (longue durée géographique)
 → **Même angle matériel** : [Smil](./smil.md) (énergie comme ressource fondatrice)
 → **Les cycles d'effondrement** : [Toynbee](./toynbee.md), [Spengler](./spengler.md)
-→ **Histoire des techniques** : voir Lewis Mumford (*Technics and Civilization*, 1934) — non encore dans le corpus
+→ **Histoire des techniques** : [Mumford](./mumford.md) (*Technics and Civilization*, 1934)
 
 ---
 

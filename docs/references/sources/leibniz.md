@@ -1,6 +1,7 @@
 # Leibniz & la Philosophia Perennis (XVIIe s.)
 
 [← Index Références](../INDEX.md) | [Glossaire](../glossaire.md)
+
 **Cluster :** [Philosophie Pérenne & Sagesse Universelle](../INDEX.md#cluster-2--philosophie-pérenne--sagesse-universelle)
 
 ---
@@ -54,7 +55,7 @@ Leibniz est l'**ancêtre conceptuel** du projet. Il a nommé l'intuition central
 ## Connexions
 
 → **Développé par** : [Huxley](./huxley.md) (anthologie de la *philosophia perennis*) et [Guénon](./guenon.md) (version ésotérique)
-→ **Même universalisme rationnel** : Kant (*raison pratique universelle*) — non encore dans le corpus
+→ **Même universalisme rationnel** : [Kant](./kant.md) (impératif catégorique — la règle d'or formalisée)
 → **Concepts liés dans le glossaire** : [Philosophie Pérenne](../glossaire.md#p)
 
 ---

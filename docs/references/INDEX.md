@@ -19,6 +19,7 @@
 | Oswald Spengler (1918) | Civilisations comme organismes biologiques : mêmes cycles | [sources/spengler.md](./sources/spengler.md) |
 | Arnold Toynbee (1934) | 19 civilisations, même processus défi-réponse | [sources/toynbee.md](./sources/toynbee.md) |
 | Ibn Khaldun (1377) | Cycles historiques via l'*asabiyyah* — précurseur médiéval arabe | [sources/ibn-khaldun.md](./sources/ibn-khaldun.md) |
+| Peter Turchin (2003-) | Cliodynamique : cycles historiques quantifiés, surproduction d'élites | [sources/turchin.md](./sources/turchin.md) |
 
 ---
 
@@ -29,6 +30,7 @@
 | Source | Angle | Fichier |
 |--------|-------|---------|
 | Leibniz (XVIIe s.) | A forgé le terme *philosophia perennis* | [sources/leibniz.md](./sources/leibniz.md) |
+| Kant (XVIIIe s.) | L'impératif catégorique — la règle d'or formalisée par la raison pure | [sources/kant.md](./sources/kant.md) |
 | Aldous Huxley (1945) | Anthologie : tous les mystiques cherchent la même chose | [sources/huxley.md](./sources/huxley.md) |
 | René Guénon (1921+) | Traditionalisme : vérité métaphysique primordiale | [sources/guenon.md](./sources/guenon.md) |
 
@@ -43,6 +45,7 @@
 | Joseph Campbell (1949) ★ | Le monomythe : même structure dans tous les mythes héroïques | [sources/campbell.md](./sources/campbell.md) · [lecture](./lectures/campbell.md) |
 | Claude Lévi-Strauss (1958) | Structures mentales profondes partagées — cultures = variations | [sources/levi-strauss.md](./sources/levi-strauss.md) |
 | Mircea Eliade (1957) | Expérience universelle du sacré, mythes du retour éternel | [sources/eliade.md](./sources/eliade.md) |
+| Donald Brown (1991) | Universaux humains : 400+ traits attestés dans toutes les cultures | [sources/brown.md](./sources/brown.md) |
 
 ---
 
@@ -67,6 +70,7 @@
 | Fernand Braudel (1949) | La longue durée : géographie et climat façonnent les civilisations | [sources/braudel.md](./sources/braudel.md) |
 | Jared Diamond (1997, 2005) | Géographie, ressources, effondrements — causes matérielles | [sources/diamond.md](./sources/diamond.md) |
 | Vaclav Smil (2017) | Histoire des civilisations = histoire de la maîtrise de l'énergie | [sources/smil.md](./sources/smil.md) |
+| Lewis Mumford (1934) | La technique façonne la culture — trois phases éo/paléo/néotechnique | [sources/mumford.md](./sources/mumford.md) |
 
 ---
 

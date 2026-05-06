@@ -1,6 +1,7 @@
 # Fernand Braudel — La Méditerranée & la Longue Durée (1949+)
 
 [← Index Références](../INDEX.md) | [Glossaire](../glossaire.md)
+
 **Cluster :** [Environnement, Technique & Géographie](../INDEX.md#cluster-5--environnement-technique--géographie)
 
 ---

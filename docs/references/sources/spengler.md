@@ -1,6 +1,7 @@
 # Oswald Spengler — Le Déclin de l'Occident (1918-1922)
 
 [← Index Références](../INDEX.md) | [Glossaire](../glossaire.md)
+
 **Cluster :** [Convergence & Cycles Civilisationnels](../INDEX.md#cluster-1--convergence--cycles-civilisationnels)
 
 ---
@@ -54,7 +55,7 @@ Utile pour la **structure des phases** de chaque civilisation (L2) et comme aver
 ## Connexions
 
 → **Successeur et correcteur** : [Toynbee](./toynbee.md) (même ambition, plus systématique et moins déterministe)
-→ **Les cycles historiques quantifiés** : Peter Turchin (*Cliodynamics*) — non encore dans le corpus
+→ **Les cycles historiques quantifiés** : [Turchin](./turchin.md) (cliodynamique — Spengler avec des équations)
 → **L'environnement comme facteur** : [Diamond](./diamond.md), [Braudel](./braudel.md)
 
 ---

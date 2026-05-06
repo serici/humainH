@@ -1,6 +1,7 @@
 # Mircea Eliade — Le Sacré et le Profane (1957)
 
 [← Index Références](../INDEX.md) | [Glossaire](../glossaire.md)
+
 **Cluster :** [Mythologie Comparée & Structures Mentales](../INDEX.md#cluster-3--mythologie-comparée--structures-mentales)
 
 ---

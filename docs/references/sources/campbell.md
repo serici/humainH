@@ -1,6 +1,7 @@
 # Joseph Campbell — Le Héros aux Mille Visages (1949)
 
 [← Index Références](../INDEX.md) | [Glossaire](../glossaire.md)
+
 **Cluster :** [Mythologie Comparée & Structures Mentales](../INDEX.md#cluster-3--mythologie-comparée--structures-mentales)
 
 ---

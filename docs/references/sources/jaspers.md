@@ -1,6 +1,7 @@
 # Karl Jaspers — L'Origine et le But de l'Histoire (1949)
 
 [← Index Références](../INDEX.md) | [Glossaire](../glossaire.md)
+
 **Cluster :** [Convergence & Cycles Civilisationnels](../INDEX.md#cluster-1--convergence--cycles-civilisationnels)
 
 ---

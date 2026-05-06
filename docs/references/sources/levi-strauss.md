@@ -1,6 +1,7 @@
 # Claude Lévi-Strauss — Anthropologie Structurale (1958)
 
 [← Index Références](../INDEX.md) | [Glossaire](../glossaire.md)
+
 **Cluster :** [Mythologie Comparée & Structures Mentales](../INDEX.md#cluster-3--mythologie-comparée--structures-mentales)
 
 ---
@@ -52,7 +53,7 @@ Fournit le **fondement scientifique** de la thèse centrale : si les esprits hum
 
 → **Même thèse, méthode jungienne** : [Campbell](./campbell.md)
 → **L'universalité par l'expérience sacrée** : [Eliade](./eliade.md)
-→ **Universaux humains empiriques** : voir aussi Donald Brown (*Human Universals*, 1991) — non encore dans le corpus
+→ **Universaux humains empiriques** : [Donald Brown](./brown.md) (*Human Universals*, 1991)
 → **Concepts liés dans le glossaire** : [Universaux humains](../glossaire.md#u)
 
 ---

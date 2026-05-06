@@ -1,6 +1,7 @@
 # Yuval Noah Harari — Sapiens (2011)
 
 [← Index Références](../INDEX.md) | [Glossaire](../glossaire.md)
+
 **Cluster :** [Grande Histoire & Cosmologie](../INDEX.md#cluster-4--grande-histoire--cosmologie)
 
 ---

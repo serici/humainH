@@ -1,6 +1,7 @@
 # Aldous Huxley — La Philosophie Éternelle (1945)
 
 [← Index Références](../INDEX.md) | [Glossaire](../glossaire.md)
+
 **Cluster :** [Philosophie Pérenne & Sagesse Universelle](../INDEX.md#cluster-2--philosophie-pérenne--sagesse-universelle)
 
 ---

@@ -1,6 +1,7 @@
 # Arnold Toynbee — A Study of History (1934-1961)
 
 [← Index Références](../INDEX.md) | [Glossaire](../glossaire.md)
+
 **Cluster :** [Convergence & Cycles Civilisationnels](../INDEX.md#cluster-1--convergence--cycles-civilisationnels)
 
 ---

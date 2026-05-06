@@ -1,6 +1,7 @@
 # David Christian — Big History (2004)
 
 [← Index Références](../INDEX.md) | [Glossaire](../glossaire.md)
+
 **Cluster :** [Grande Histoire & Cosmologie](../INDEX.md#cluster-4--grande-histoire--cosmologie)
 
 ---
