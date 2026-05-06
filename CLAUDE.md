@@ -33,7 +33,10 @@ histoireH/
 │   ├── 02-civilisations/          L2 : civilisations par période
 │   ├── 03-themes/                 L3 : thèmes transversaux
 │   ├── 04-figures/                L4 : figures et textes
-│   └── references/                sources et glossaire
+│   └── references/                sources, glossaire, lectures
+│       ├── sources/               fiches projet (300-700 mots)
+│       ├── lectures/              présentations didactiques (1500-2000 mots)
+│       └── par-ou-commencer.md    guide d'entrée pour néophyte
 ├── templates/                  ← gabarits (non publiés)
 ├── mkdocs.yml                  ← configuration MkDocs
 ├── pyproject.toml              ← dépendances Python (uv)
@@ -82,6 +85,22 @@ Au début de chaque session Claude CLI :
 - **Nuance** : noter quand une connexion est établie vs. hypothétique
 - **Longueur** : préférer des fichiers denses et courts à des fichiers exhaustifs et longs
 - **Langue** : français, sauf les termes techniques sans équivalent (Axial Age, etc.)
+
+---
+
+## Système de Références à Deux Niveaux
+
+Les références utilisent deux formats selon l'importance de l'auteur pour le projet.
+
+### Fiches projet (`references/sources/`)
+Format court : 300-700 mots. Orienté projet : thèse, concepts clés, pertinence, connexions. Ne suppose pas que le lecteur a lu le livre.
+
+### Lectures didactiques (`references/lectures/`)
+Format long : 1500-2000 mots. Factuel et didactique — non orienté projet. Présente l'auteur, le livre, l'argument en détail, la réception, les limites. Accessible sans formation philosophique préalable. Réservé aux **auteurs-cœur** (~6 auteurs centraux pour le projet).
+
+**Un auteur mérite une lecture longue si :** son œuvre est directement centrale pour le projet, ou si comprendre sa thèse en profondeur conditionne la compréhension d'autres auteurs du corpus. La liste évolue avec le corpus — voir `references/INDEX.md` pour l'état actuel.
+
+**Principe :** les deux formats sont complémentaires — la fiche `sources/` pour naviguer dans le projet, la lecture `lectures/` pour comprendre un auteur en profondeur.
 
 ---
 

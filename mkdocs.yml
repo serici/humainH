@@ -27,7 +27,13 @@ nav:
   - Accueil: INDEX.md
   - Références:
     - Index: references/INDEX.md
+    - Par où commencer: references/par-ou-commencer.md
     - Glossaire: references/glossaire.md
+    - Lectures:
+      - Jaspers: references/lectures/jaspers.md
+      - Armstrong: references/lectures/armstrong.md
+      - Campbell: references/lectures/campbell.md
+      - Harari: references/lectures/harari.md
     - Sources:
       - Armstrong: references/sources/armstrong.md
       - Braudel: references/sources/braudel.md

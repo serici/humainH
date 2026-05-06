@@ -2,7 +2,9 @@
 
 > Documents de référence séparés du corpus principal.
 > But : cartographier ce qui a déjà été pensé, pour explorer librement sans l'ignorer.
-> [← Projet](../INDEX.md) | [Glossaire](./glossaire.md)
+> [← Projet](../INDEX.md) | [Glossaire](./glossaire.md) | [Par où commencer](./par-ou-commencer.md)
+
+> **Deux niveaux :** les fiches `sources/` (300-700 mots, orientées projet) et les lectures `lectures/` (1500-2000 mots, didactiques, non orientées projet). Les auteurs ayant une lecture longue sont signalés par ★.
 
 ---
 
@@ -12,8 +14,8 @@
 
 | Source | Angle | Fichier |
 |--------|-------|---------|
-| Karl Jaspers (1949) | L'Âge Axial : bond simultané 800-200 av. J.-C. | [sources/jaspers.md](./sources/jaspers.md) |
-| Karen Armstrong (2006) | Même bond, expliqué par réaction éthique à la violence | [sources/armstrong.md](./sources/armstrong.md) |
+| Karl Jaspers (1949) ★ | L'Âge Axial : bond simultané 800-200 av. J.-C. | [sources/jaspers.md](./sources/jaspers.md) · [lecture](./lectures/jaspers.md) |
+| Karen Armstrong (2006) ★ | Même bond, expliqué par réaction éthique à la violence | [sources/armstrong.md](./sources/armstrong.md) · [lecture](./lectures/armstrong.md) |
 | Oswald Spengler (1918) | Civilisations comme organismes biologiques : mêmes cycles | [sources/spengler.md](./sources/spengler.md) |
 | Arnold Toynbee (1934) | 19 civilisations, même processus défi-réponse | [sources/toynbee.md](./sources/toynbee.md) |
 | Ibn Khaldun (1377) | Cycles historiques via l'*asabiyyah* — précurseur médiéval arabe | [sources/ibn-khaldun.md](./sources/ibn-khaldun.md) |
@@ -38,7 +40,7 @@
 
 | Source | Angle | Fichier |
 |--------|-------|---------|
-| Joseph Campbell (1949) | Le monomythe : même structure dans tous les mythes héroïques | [sources/campbell.md](./sources/campbell.md) |
+| Joseph Campbell (1949) ★ | Le monomythe : même structure dans tous les mythes héroïques | [sources/campbell.md](./sources/campbell.md) · [lecture](./lectures/campbell.md) |
 | Claude Lévi-Strauss (1958) | Structures mentales profondes partagées — cultures = variations | [sources/levi-strauss.md](./sources/levi-strauss.md) |
 | Mircea Eliade (1957) | Expérience universelle du sacré, mythes du retour éternel | [sources/eliade.md](./sources/eliade.md) |
 
@@ -52,7 +54,7 @@
 |--------|-------|---------|
 | David Christian (2004) | Big History : du Big Bang à l'humanité, 8 seuils de complexité | [sources/christian.md](./sources/christian.md) |
 | Pierre Teilhard de Chardin | Évolution vers la Noosphère — convergence spirituelle cosmique | [sources/teilhard.md](./sources/teilhard.md) |
-| Yuval Noah Harari (2011) | Sapiens : histoire populaire, angle biologique et cognitif | [sources/harari.md](./sources/harari.md) |
+| Yuval Noah Harari (2011) ★ | Sapiens : histoire populaire, angle biologique et cognitif | [sources/harari.md](./sources/harari.md) · [lecture](./lectures/harari.md) |
 
 ---
 

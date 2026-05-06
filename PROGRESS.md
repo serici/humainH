@@ -1,8 +1,8 @@
 # Progression du Projet
 
 ## Dernière Session
-- **Date** : 2026-05-04
-- **Travail** : Mise en place de la publication — git, MkDocs Material, CI/CD GitHub Actions, GitHub Pages
+- **Date** : 2026-05-06
+- **Travail** : Système de références à deux niveaux — création des lectures didactiques longues (auteurs principaux) et du guide de lecture `par-ou-commencer.md`
 
 ## Fait ✓
 
@@ -18,7 +18,19 @@
 - [x] `templates/theme.md`
 - [x] `templates/figure.md`
 
-### Références (corpus séparé)
+### Références — Architecture
+- [x] `references/INDEX.md` — index hiérarchique par cluster (mis à jour)
+- [x] `references/glossaire.md` — concepts clés
+- [x] `references/par-ou-commencer.md` — guide de lecture pour néophyte (3 parcours)
+- [x] Système à deux niveaux : fiches projet (`sources/`) + lectures didactiques (`lectures/`)
+
+### Lectures didactiques (`references/lectures/`)
+- [x] `lectures/jaspers.md` — ~1600 mots
+- [x] `lectures/armstrong.md` — ~1700 mots
+- [x] `lectures/campbell.md` — ~1800 mots
+- [x] `lectures/harari.md` — ~1700 mots
+
+### Références — Fiches projet (`sources/`)
 - [x] `references/INDEX.md` — index hiérarchique par cluster
 - [x] `references/glossaire.md` — concepts clés
 - [x] `references/sources/jaspers.md`
