@@ -82,10 +82,11 @@
 ## Cluster 6 — Philosophies Synthétiques & Intégratives
 
 *Ces auteurs tentent une synthèse de tout — utiles comme méta-frameworks.*
+→ **[Lecture du cluster — présentation de Wilber et du projet de synthèse intégrale](./lectures/cluster6-philosophies-integrales.md)**
 
 | Source | Angle | Fichier |
 |--------|-------|---------|
-| Ken Wilber (1995+) | Théorie intégrale : quadrants individu/collectif, niveaux de conscience | [sources/wilber.md](./sources/wilber.md) |
+| Ken Wilber (1995+) ★ | Théorie intégrale : quadrants individu/collectif, niveaux de conscience | [sources/wilber.md](./sources/wilber.md) · [lecture](./lectures/wilber.md) |
 
 ---
 

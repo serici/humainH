@@ -2,15 +2,16 @@
 
 ## Dernière Session
 - **Date** : 2026-05-06
-- **Travail** : Système de références à deux niveaux — création des lectures didactiques longues (auteurs principaux) et du guide de lecture `par-ou-commencer.md`
+- **Travail** : Achèvement du système de références — lectures didactiques longues et synthèses de cluster pour l'ensemble des 6 clusters
 
 ## Fait ✓
 
 ### Infrastructure
 - [x] Structure de répertoires
 - [x] `CLAUDE.md` — instructions Claude CLI
-- [x] `INDEX.md` — carte de navigation du projet
+- [x] `docs/index.md` — carte de navigation du projet (L0)
 - [x] `PROGRESS.md` — ce fichier
+- [x] CI/CD GitHub Actions — déploiement automatique sur GitHub Pages
 
 ### Templates
 - [x] `templates/periode.md`
@@ -19,38 +20,49 @@
 - [x] `templates/figure.md`
 
 ### Références — Architecture
-- [x] `references/INDEX.md` — index hiérarchique par cluster (mis à jour)
+- [x] `references/index.md` — index hiérarchique par cluster (6 clusters complets)
 - [x] `references/glossaire.md` — concepts clés
 - [x] `references/par-ou-commencer.md` — guide de lecture pour néophyte (3 parcours)
 - [x] Système à deux niveaux : fiches projet (`sources/`) + lectures didactiques (`lectures/`)
 
 ### Lectures didactiques (`references/lectures/`)
+
+**Cluster 1 — Convergence & Cycles**
+- [x] `lectures/cluster1-convergence.md` — synthèse : Ibn Khaldun, Spengler, Toynbee, Turchin
 - [x] `lectures/jaspers.md` — ~1600 mots
 - [x] `lectures/armstrong.md` — ~1700 mots
+
+**Cluster 2 — Philosophie Pérenne**
+- [x] `lectures/cluster2-philosophie-perenne.md` — synthèse : Leibniz, Huxley, Guénon, Kant
+- [x] `lectures/huxley.md` — ~1800 mots
+
+**Cluster 3 — Mythologie & Structures**
+- [x] `lectures/cluster3-mythologie.md` — synthèse : Campbell, Lévi-Strauss, Eliade, Brown
 - [x] `lectures/campbell.md` — ~1800 mots
+- [x] `lectures/levi-strauss.md` — ~2000 mots
+
+**Cluster 4 — Grande Histoire**
+- [x] `lectures/cluster4-grande-histoire.md` — synthèse : Harari, Christian, Teilhard
 - [x] `lectures/harari.md` — ~1700 mots
+- [x] `lectures/christian.md` — ~1700 mots
+- [x] `lectures/teilhard.md` — ~1800 mots
+
+**Cluster 5 — Environnement, Technique & Géographie**
+- [x] `lectures/cluster5-environnement.md` — synthèse : Braudel, Diamond, Smil, Mumford
+- [x] `lectures/braudel.md` — ~1900 mots
+- [x] `lectures/diamond.md` — ~2000 mots
+
+**Cluster 6 — Philosophies Synthétiques & Intégratives**
+- [x] `lectures/cluster6-philosophies-integrales.md` — synthèse : Wilber et le projet de synthèse
+- [x] `lectures/wilber.md` — ~2000 mots
 
 ### Références — Fiches projet (`sources/`)
-- [x] `references/INDEX.md` — index hiérarchique par cluster
-- [x] `references/glossaire.md` — concepts clés
-- [x] `references/sources/jaspers.md`
-- [x] `references/sources/armstrong.md`
-- [x] `references/sources/huxley.md`
-- [x] `references/sources/guenon.md`
-- [x] `references/sources/leibniz.md`
-- [x] `references/sources/campbell.md`
-- [x] `references/sources/levi-strauss.md`
-- [x] `references/sources/eliade.md`
-- [x] `references/sources/spengler.md`
-- [x] `references/sources/toynbee.md`
-- [x] `references/sources/ibn-khaldun.md`
-- [x] `references/sources/braudel.md`
-- [x] `references/sources/diamond.md`
-- [x] `references/sources/smil.md`
-- [x] `references/sources/christian.md`
-- [x] `references/sources/teilhard.md`
-- [x] `references/sources/wilber.md`
-- [x] `references/sources/harari.md`
+- [x] jaspers, armstrong, huxley, guenon, leibniz, kant
+- [x] campbell, levi-strauss, eliade, brown
+- [x] spengler, toynbee, ibn-khaldun, turchin
+- [x] braudel, diamond, smil, mumford
+- [x] christian, teilhard, harari
+- [x] wilber
 
 ## Prochaine Session — Suggestions
 
@@ -61,7 +73,6 @@ Plusieurs points d'entrée possibles selon l'envie :
 2. **Commencer par la Période Axiale (L1-P3)** — cœur philosophique, ce qui a motivé le projet
 3. **Commencer par la Préhistoire (L1-P1)** — dans l'ordre chronologique
 4. **Ouvrir un premier thème (L3)** — le détachement, la figure du héros, les mythes fondateurs...
-5. **Compléter les références** — ajouter des sources manquantes (Foucault, Jung, Mumford...)
 
 ## Publication ✓
 
@@ -70,7 +81,6 @@ Plusieurs points d'entrée possibles selon l'envie :
 - [x] Contenu déplacé dans `docs/` (structure standard MkDocs)
 - [x] CI/CD GitHub Actions — déploiement automatique à chaque push sur `main`
 - [x] Site live : `https://serici.github.io/humainH/`
-- [ ] PDF : plugin `mkdocs-with-pdf` (optionnel, à ajouter si besoin)
 
 ---
 
@@ -79,9 +89,6 @@ Plusieurs points d'entrée possibles selon l'envie :
 Sources identifiées non encore traitées :
 - [ ] Carl Jung — archétypes, inconscient collectif
 - [ ] Michel Foucault — épistémès, archéologie du savoir
-- [ ] Lewis Mumford — *Technics and Civilization* (1934)
 - [ ] Pierre Hadot — *La Philosophie comme manière de vivre*
-- [ ] Peter Turchin — Cliodynamics (cycles historiques quantifiés)
 - [ ] Johan Huizinga — *Homo Ludens* (le jeu comme fondement de la culture)
 - [ ] Victor Turner — liminité et rites de passage
-- [ ] Mircea Eliade — *Shamanism* (à compléter dans la fiche existante)
