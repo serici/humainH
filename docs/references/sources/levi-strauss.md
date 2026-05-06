@@ -1,8 +1,8 @@
 # Claude Lévi-Strauss — Anthropologie Structurale (1958)
 
-[← Index Références](../INDEX.md) | [Glossaire](../glossaire.md)
+[← Index Références](../index.md) | [Glossaire](../glossaire.md)
 
-**Cluster :** [Mythologie Comparée & Structures Mentales](../INDEX.md#cluster-3--mythologie-comparée--structures-mentales)
+**Cluster :** [Mythologie Comparée & Structures Mentales](../index.md#cluster-3--mythologie-comparée--structures-mentales)
 
 ---
 

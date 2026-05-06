@@ -1,6 +1,6 @@
 # Karen Armstrong — The Great Transformation (2006)
 
-[← Index Références](../INDEX.md) | [Fiche projet](../sources/armstrong.md) | [Par où commencer](../par-ou-commencer.md)
+[← Index Références](../index.md) | [Fiche projet](../sources/armstrong.md) | [Par où commencer](../par-ou-commencer.md)
 
 ---
 

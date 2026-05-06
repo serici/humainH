@@ -1,6 +1,6 @@
 # Par Où Commencer ?
 
-[← Index Références](./INDEX.md) | [Glossaire](./glossaire.md)
+[← Index Références](./index.md) | [Glossaire](./glossaire.md)
 
 > Ce guide s'adresse à quelqu'un qui n'a pas de formation en histoire ou en philosophie et qui veut comprendre les idées qui structurent ce projet.
 

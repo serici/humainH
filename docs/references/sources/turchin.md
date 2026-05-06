@@ -1,8 +1,8 @@
 # Peter Turchin — Cliodynamics (2003-)
 
-[← Index Références](../INDEX.md) | [Glossaire](../glossaire.md)
+[← Index Références](../index.md) | [Glossaire](../glossaire.md)
 
-**Cluster :** [Convergence & Cycles Civilisationnels](../INDEX.md#cluster-1--convergence--cycles-civilisationnels)
+**Cluster :** [Convergence & Cycles Civilisationnels](../index.md#cluster-1--convergence--cycles-civilisationnels)
 
 ---
 

@@ -1,6 +1,6 @@
 # Yuval Noah Harari — Sapiens (2011)
 
-[← Index Références](../INDEX.md) | [Fiche projet](../sources/harari.md) | [Par où commencer](../par-ou-commencer.md)
+[← Index Références](../index.md) | [Fiche projet](../sources/harari.md) | [Par où commencer](../par-ou-commencer.md)
 
 ---
 

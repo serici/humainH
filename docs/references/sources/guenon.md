@@ -1,8 +1,8 @@
 # René Guénon — Le Traditionalisme (1921+)
 
-[← Index Références](../INDEX.md) | [Glossaire](../glossaire.md)
+[← Index Références](../index.md) | [Glossaire](../glossaire.md)
 
-**Cluster :** [Philosophie Pérenne & Sagesse Universelle](../INDEX.md#cluster-2--philosophie-pérenne--sagesse-universelle)
+**Cluster :** [Philosophie Pérenne & Sagesse Universelle](../index.md#cluster-2--philosophie-pérenne--sagesse-universelle)
 
 ---
 

@@ -1,8 +1,8 @@
 # Lewis Mumford — Technics and Civilization (1934)
 
-[← Index Références](../INDEX.md) | [Glossaire](../glossaire.md)
+[← Index Références](../index.md) | [Glossaire](../glossaire.md)
 
-**Cluster :** [Environnement, Technique & Géographie](../INDEX.md#cluster-5--environnement-technique--géographie)
+**Cluster :** [Environnement, Technique & Géographie](../index.md#cluster-5--environnement-technique--géographie)
 
 ---
 

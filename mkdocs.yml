@@ -24,9 +24,9 @@ theme:
     - toc.integrate
 
 nav:
-  - Accueil: INDEX.md
+  - Accueil: index.md
   - Références:
-    - Index: references/INDEX.md
+    - Index: references/index.md
     - Par où commencer: references/par-ou-commencer.md
     - Glossaire: references/glossaire.md
     - Lectures:

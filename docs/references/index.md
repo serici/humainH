@@ -2,7 +2,7 @@
 
 > Documents de référence séparés du corpus principal.
 > But : cartographier ce qui a déjà été pensé, pour explorer librement sans l'ignorer.
-> [← Projet](../INDEX.md) | [Glossaire](./glossaire.md) | [Par où commencer](./par-ou-commencer.md)
+> [← Projet](../index.md) | [Glossaire](./glossaire.md) | [Par où commencer](./par-ou-commencer.md)
 
 > **Deux niveaux :** les fiches `sources/` (300-700 mots, orientées projet) et les lectures `lectures/` (1500-2000 mots, didactiques, non orientées projet). Les auteurs ayant une lecture longue sont signalés par ★.
 

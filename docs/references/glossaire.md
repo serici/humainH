@@ -1,7 +1,7 @@
 # Glossaire
 
 > Concepts clés utilisés dans le projet et les références.
-> [← Références](./INDEX.md) | [← Projet](../INDEX.md)
+> [← Références](./index.md) | [← Projet](../index.md)
 > Document vivant — enrichi au fil des sessions.
 
 ---

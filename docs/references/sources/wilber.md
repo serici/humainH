@@ -1,8 +1,8 @@
 # Ken Wilber — Théorie Intégrale (1995+)
 
-[← Index Références](../INDEX.md) | [Glossaire](../glossaire.md)
+[← Index Références](../index.md) | [Glossaire](../glossaire.md)
 
-**Cluster :** [Philosophies Synthétiques & Intégratives](../INDEX.md#cluster-6--philosophies-synthétiques--intégratives)
+**Cluster :** [Philosophies Synthétiques & Intégratives](../index.md#cluster-6--philosophies-synthétiques--intégratives)
 
 ---
 

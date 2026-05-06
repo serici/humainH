@@ -1,6 +1,6 @@
 # Joseph Campbell — Le Héros aux mille et un visages (1949)
 
-[← Index Références](../INDEX.md) | [Fiche projet](../sources/campbell.md) | [Par où commencer](../par-ou-commencer.md)
+[← Index Références](../index.md) | [Fiche projet](../sources/campbell.md) | [Par où commencer](../par-ou-commencer.md)
 
 ---
 

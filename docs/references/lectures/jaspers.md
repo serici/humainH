@@ -1,6 +1,6 @@
 # Karl Jaspers — Origine et sens de l'histoire (1949)
 
-[← Index Références](../INDEX.md) | [Fiche projet](../sources/jaspers.md) | [Par où commencer](../par-ou-commencer.md)
+[← Index Références](../index.md) | [Fiche projet](../sources/jaspers.md) | [Par où commencer](../par-ou-commencer.md)
 
 ---
 
