@@ -25,6 +25,7 @@
 - [x] `docs/01-periodes/empires-expansion.md` — P4 : structure impériale convergente, Ashoka, bouddhisme gréco-bactrien, transmission asymétrique
 - [x] `docs/01-periodes/moyen-age-mondial.md` — P5 : mysticisme abrahamique simultané, chaîne de traduction, Timbuktu, zéro maya, imprimerie chinoise vs. Gutenberg
 - [x] `docs/01-periodes/revolutions-modernes.md` — P6 : Grande Divergence, Réforme/Bhakti, Akbar, contradiction Lumières/esclavage, échange colombien
+- [x] `docs/01-periodes/ere-contemporaine.md` — P7 : trois universalismes, Meiji, DUDH et ses limites, Darwin/ADN/neuro, questions ouvertes
 
 ### Infrastructure
 - [x] Structure de répertoires
