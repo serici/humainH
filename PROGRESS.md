@@ -20,6 +20,7 @@
 
 ### L1 — Grandes Périodes
 - [x] `docs/01-periodes/prehistoire.md` — P1 : révolution cognitive, convergences symboliques, néolithique
+- [x] `docs/01-periodes/premieres-civilisations.md` — P2 : écriture (4 foyers), État, déluge, anomalie Indus, effondrement -1200
 
 ### Infrastructure
 - [x] Structure de répertoires

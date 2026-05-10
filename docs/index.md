@@ -16,7 +16,7 @@
 | Période | Fichier | Statut |
 |---------|---------|--------|
 | Préhistoire & Émergence humaine | [01-periodes/prehistoire.md](./01-periodes/prehistoire.md) | ✓ |
-| Premières Civilisations | [01-periodes/premieres-civilisations.md](./01-periodes/premieres-civilisations.md) | ☐ |
+| Premières Civilisations | [01-periodes/premieres-civilisations.md](./01-periodes/premieres-civilisations.md) | ✓ |
 | **Période Axiale** | [01-periodes/periode-axiale.md](./01-periodes/periode-axiale.md) | ☐ |
 | Empires & Expansion | [01-periodes/empires-expansion.md](./01-periodes/empires-expansion.md) | ☐ |
 | Moyen Âge Mondial | [01-periodes/moyen-age-mondial.md](./01-periodes/moyen-age-mondial.md) | ☐ |
