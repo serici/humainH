@@ -20,7 +20,7 @@
 | **Période Axiale** | [01-periodes/periode-axiale.md](./01-periodes/periode-axiale.md) | ✓ |
 | Empires & Expansion | [01-periodes/empires-expansion.md](./01-periodes/empires-expansion.md) | ✓ |
 | Moyen Âge Mondial | [01-periodes/moyen-age-mondial.md](./01-periodes/moyen-age-mondial.md) | ✓ |
-| Révolutions Modernes | [01-periodes/revolutions-modernes.md](./01-periodes/revolutions-modernes.md) | ☐ |
+| Révolutions Modernes | [01-periodes/revolutions-modernes.md](./01-periodes/revolutions-modernes.md) | ✓ |
 | Ère Contemporaine | [01-periodes/ere-contemporaine.md](./01-periodes/ere-contemporaine.md) | ☐ |
 
 ---

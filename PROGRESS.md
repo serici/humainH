@@ -24,6 +24,7 @@
 - [x] `docs/01-periodes/periode-axiale.md` — P3 : règle d'or (6 formulations), Cent Écoles, divergences soi/politique, Armstrong vs. Sen
 - [x] `docs/01-periodes/empires-expansion.md` — P4 : structure impériale convergente, Ashoka, bouddhisme gréco-bactrien, transmission asymétrique
 - [x] `docs/01-periodes/moyen-age-mondial.md` — P5 : mysticisme abrahamique simultané, chaîne de traduction, Timbuktu, zéro maya, imprimerie chinoise vs. Gutenberg
+- [x] `docs/01-periodes/revolutions-modernes.md` — P6 : Grande Divergence, Réforme/Bhakti, Akbar, contradiction Lumières/esclavage, échange colombien
 
 ### Infrastructure
 - [x] Structure de répertoires
