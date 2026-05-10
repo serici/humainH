@@ -7,7 +7,7 @@
 
 ## L0 — Vue Globale
 
-→ [00-vue-globale.md](./00-vue-globale.md) — Toute l'histoire en une page, le fil philosophique
+→ [00-vue-globale.md](./00-vue-globale.md) — Toute l'histoire en une page, le fil philosophique ✓
 
 ---
 

@@ -2,10 +2,11 @@
 
 ## Dernière Session
 - **Date** : 2026-05-10
-- **Travail** : Correction du lien cassé CLAUDE.md → docs/claude.md ; recentrage thématique
-  (Âge Axial comme exemple, pas axe central ; universalité comme grille d'analyse) ;
-  ajout de 5 auteurs non-occidentaux (Sen, Diop, Tu Weiming, Nasr, Panikkar) ;
-  mise à jour de CLAUDE.md, docs/index.md, mkdocs.yml, docs/references/index.md
+- **Travail** :
+  - Correction du lien cassé CLAUDE.md → docs/claude.md (nouvelle page publique démarche)
+  - Recentrage thématique : universalité comme grille d'analyse, Âge Axial comme exemple emblématique
+  - 5 nouveaux auteurs non-occidentaux : Sen, Diop, Tu Weiming, Nasr, Panikkar
+  - **L0** — `docs/00-vue-globale.md` : vue globale de l'histoire, fil comparatiste, arc des 7 périodes
 
 ## Sessions Précédentes
 
@@ -13,6 +14,9 @@
 - Achèvement du système de références — lectures didactiques longues et synthèses de cluster pour l'ensemble des 6 clusters
 
 ## Fait ✓
+
+### L0 — Vue Globale
+- [x] `docs/00-vue-globale.md` — vue d'ensemble + 5 questions universelles + arc des 7 périodes
 
 ### Infrastructure
 - [x] Structure de répertoires

@@ -26,6 +26,7 @@ theme:
 nav:
   - Accueil: index.md
   - Démarche du projet: claude.md
+  - Vue Globale (L0): 00-vue-globale.md
   - Références:
     - Index: references/index.md
     - Par où commencer: references/par-ou-commencer.md
