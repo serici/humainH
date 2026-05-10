@@ -1,8 +1,16 @@
 # Progression du Projet
 
 ## Dernière Session
-- **Date** : 2026-05-06
-- **Travail** : Achèvement du système de références — lectures didactiques longues et synthèses de cluster pour l'ensemble des 6 clusters
+- **Date** : 2026-05-10
+- **Travail** : Correction du lien cassé CLAUDE.md → docs/claude.md ; recentrage thématique
+  (Âge Axial comme exemple, pas axe central ; universalité comme grille d'analyse) ;
+  ajout de 5 auteurs non-occidentaux (Sen, Diop, Tu Weiming, Nasr, Panikkar) ;
+  mise à jour de CLAUDE.md, docs/index.md, mkdocs.yml, docs/references/index.md
+
+## Sessions Précédentes
+
+### 2026-05-06
+- Achèvement du système de références — lectures didactiques longues et synthèses de cluster pour l'ensemble des 6 clusters
 
 ## Fait ✓
 

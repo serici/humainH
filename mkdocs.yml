@@ -25,6 +25,7 @@ theme:
 
 nav:
   - Accueil: index.md
+  - Démarche du projet: claude.md
   - Références:
     - Index: references/index.md
     - Par où commencer: references/par-ou-commencer.md
@@ -54,6 +55,7 @@ nav:
       - Campbell: references/sources/campbell.md
       - Christian: references/sources/christian.md
       - Diamond: references/sources/diamond.md
+      - Diop: references/sources/diop.md
       - Eliade: references/sources/eliade.md
       - Guenon: references/sources/guenon.md
       - Harari: references/sources/harari.md
@@ -64,10 +66,14 @@ nav:
       - Leibniz: references/sources/leibniz.md
       - Lévi-Strauss: references/sources/levi-strauss.md
       - Mumford: references/sources/mumford.md
+      - Nasr: references/sources/nasr.md
+      - Panikkar: references/sources/panikkar.md
+      - Sen: references/sources/sen.md
       - Smil: references/sources/smil.md
       - Spengler: references/sources/spengler.md
       - Teilhard: references/sources/teilhard.md
       - Toynbee: references/sources/toynbee.md
+      - Tu Weiming: references/sources/tu-weiming.md
       - Turchin: references/sources/turchin.md
       - Wilber: references/sources/wilber.md
 

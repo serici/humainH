@@ -4,22 +4,35 @@
 
 Construction progressive d'une histoire philosophique et transculturelle de l'humanité.
 
-**Angle directeur** : toutes les civilisations humaines ont évolué indépendamment mais en
-parallèle, vers les mêmes grandes idées — éthique, transcendance, conscience individuelle,
-sens de l'existence. L'histoire occidentale n'est qu'un fil parmi d'autres.
+**Angle directeur** : l'universalité comme grille de lecture — non pas pour démontrer que les
+civilisations convergent, mais pour identifier, dans chaque époque et chaque culture, ce qui
+se retrouve partout (universel) et ce qui reste propre à son contexte (particulier).
+L'histoire occidentale n'est qu'un fil parmi d'autres.
 
-**Concept central : la Période Axiale** (Karl Jaspers, 1949)
+**Question centrale du projet**
+> Les idées ont-elles façonné l'histoire, ou l'histoire a-t-elle façonné les idées ?
+Les deux directions sont explorées : contraintes géographiques, économiques, techniques,
+biologiques — et systèmes de pensée, philosophies morales, religions. La granularité d'analyse
+augmente en se rapprochant du présent : de l'esquisse conceptuelle pour la préhistoire à
+l'analyse fine (philosophique, scientifique, économique, politique) pour les périodes récentes.
+
+**La Période Axiale — exemple emblématique de convergence** (Karl Jaspers, 1949)
 Entre ~800 et 200 av. J.-C., simultanément et indépendamment :
 - Grèce : Héraclite, Socrate, Platon, Aristote, Stoïciens
 - Inde : Upanishads, Bouddha (~563-483 av. J.-C.), Jaïnisme
 - Chine : Confucius (~551-479 av. J.-C.), Laozi, Zhuangzi
 - Proche-Orient : Prophètes hébreux, Zoroastre
-→ Même bond conceptuel : l'individu peut accéder à une vérité universelle par la raison et l'éthique.
+→ Un cas emblématique de convergence indépendante — point de référence du projet, pas son axe
+organisateur. D'autres moments de convergence ont la même valeur : émergence des grandes
+religions mondiales (IVe-VIIe s.), révolutions scientifiques et industrielles simultanées, etc.
 
-**Fil philosophique à maintenir dans chaque fichier** :
+**Fil comparatiste à maintenir dans chaque fichier** :
+- Poser la double question : qu'est-ce qui converge ? qu'est-ce qui diverge ? pourquoi ?
 - Chercher les parallèles inter-culturels (stoïcisme ↔ détachement bouddhiste, etc.)
 - Signaler les convergences indépendantes (sans influence mutuelle prouvée)
-- Éviter l'eurocentrisme — Europe = un angle parmi d'autres
+- Signaler aussi les divergences — ce qui n'est pas universel est aussi informatif
+- Éviter l'eurocentrisme — Europe = un angle parmi d'autres ; inclure activement les traditions
+  africaines, indiennes, chinoises, islamiques
 
 ---
 
@@ -129,4 +142,5 @@ Les gabarits sont dans `templates/`. Le contenu créé va dans `docs/` (même ar
 | P6 | Révolutions Modernes | 1 500 → 1 800 | ☐ |
 | P7 | Ère Contemporaine | 1 800 → présent | ☐ |
 
-La Période Axiale (P3) est le cœur philosophique — à développer en priorité.
+Chaque période est traitée à égalité — aucune n'est le "cœur" du projet.
+La Période Axiale (P3) reste un excellent point d'entrée par la richesse documentaire.

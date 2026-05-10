@@ -10,7 +10,8 @@
 
 ## Cluster 1 — Convergence & Cycles Civilisationnels
 
-*Ces auteurs ont observé que les civilisations suivent des patterns similaires, indépendamment.*
+*Ces auteurs observent des convergences entre civilisations — certains depuis l'extérieur (Jaspers,
+Toynbee), d'autres depuis l'intérieur de leurs traditions (Sen, Tu Weiming, Ibn Khaldun).*
 → **[Lecture du cluster — présentation en dialogue des 6 auteurs](./lectures/cluster1-convergence.md)**
 
 | Source | Angle | Fichier |
@@ -21,12 +22,16 @@
 | Arnold Toynbee (1934) | 19 civilisations, même processus défi-réponse | [sources/toynbee.md](./sources/toynbee.md) |
 | Ibn Khaldun (1377) | Cycles historiques via l'*asabiyyah* — précurseur médiéval arabe | [sources/ibn-khaldun.md](./sources/ibn-khaldun.md) |
 | Peter Turchin (2003-) | Cliodynamique : cycles historiques quantifiés, surproduction d'élites | [sources/turchin.md](./sources/turchin.md) |
+| Amartya Sen (2005) | *The Argumentative Indian* — la tradition rationnelle indienne précède et déborde l'Âge Axial | [sources/sen.md](./sources/sen.md) |
+| Tu Weiming (1985) | L'Âge Axial vu de l'intérieur confucéen — convergences réelles, contenus irréductibles | [sources/tu-weiming.md](./sources/tu-weiming.md) |
 
 ---
 
 ## Cluster 2 — Philosophie Pérenne & Sagesse Universelle
 
-*Ces auteurs soutiennent qu'une sagesse unique se cache sous la diversité des traditions.*
+*Ces auteurs explorent l'hypothèse d'une sagesse universelle sous la diversité des traditions.
+Certains y croient (Huxley, Guénon), d'autres en précisent la nature depuis leurs traditions
+propres (Nasr depuis l'islam, Panikkar depuis l'entre-deux chrétien-hindou).*
 → **[Lecture du cluster — présentation en dialogue des 4 auteurs](./lectures/cluster2-philosophie-perenne.md)**
 
 | Source | Angle | Fichier |
@@ -35,6 +40,8 @@
 | Kant (XVIIIe s.) | L'impératif catégorique — la règle d'or formalisée par la raison pure | [sources/kant.md](./sources/kant.md) |
 | Aldous Huxley (1945) ★ | Anthologie : tous les mystiques cherchent la même chose | [sources/huxley.md](./sources/huxley.md) · [lecture](./lectures/huxley.md) |
 | René Guénon (1921+) | Traditionalisme : vérité métaphysique primordiale | [sources/guenon.md](./sources/guenon.md) |
+| Seyyed Hossein Nasr (1981) | *Sophia perennis* depuis la tradition islamique soufie | [sources/nasr.md](./sources/nasr.md) |
+| Raimon Panikkar (1978) | Universalité sans uniformité — herméneutique diatopique | [sources/panikkar.md](./sources/panikkar.md) |
 
 ---
 
@@ -54,7 +61,8 @@
 
 ## Cluster 4 — Grande Histoire & Cosmologie
 
-*Ces auteurs situent l'humanité dans un cadre plus large : cosmique ou évolutif.*
+*Ces auteurs situent l'humanité dans un cadre plus large : cosmique, évolutif, ou civilisationnel.
+Diop y apporte la réécriture africaine des origines — un contrepoint au récit dominant.*
 → **[Lecture du cluster — présentation en dialogue des 3 auteurs](./lectures/cluster4-grande-histoire.md)**
 
 | Source | Angle | Fichier |
@@ -62,6 +70,7 @@
 | David Christian (2004) ★ | Big History : du Big Bang à l'humanité, 8 seuils de complexité | [sources/christian.md](./sources/christian.md) · [lecture](./lectures/christian.md) |
 | Pierre Teilhard de Chardin ★ | Évolution vers la Noosphère — convergence spirituelle cosmique | [sources/teilhard.md](./sources/teilhard.md) · [lecture](./lectures/teilhard.md) |
 | Yuval Noah Harari (2011) ★ | Sapiens : histoire populaire, angle biologique et cognitif | [sources/harari.md](./sources/harari.md) · [lecture](./lectures/harari.md) |
+| Cheikh Anta Diop (1955) | *Nations nègres et Culture* — histoire mondiale réécrite depuis l'Afrique | [sources/diop.md](./sources/diop.md) |
 
 ---
 
@@ -94,9 +103,16 @@
 
 ```
 Jaspers ←→ Armstrong     : même objet (Âge Axial), angles différents
+Jaspers ←→ Sen           : l'Âge Axial challenged depuis l'intérieur de la tradition indienne
+Jaspers ←→ Tu Weiming    : l'Âge Axial challenged depuis l'intérieur de la tradition chinoise
 Jaspers ←→ Campbell      : convergence temporelle vs. convergence structurelle
 Lévi-Strauss ←→ Campbell : structures universelles — l'un par l'ethnologie, l'autre par la mythologie
 Huxley ←→ Guénon        : même thèse, Huxley empirique / Guénon métaphysique
+Huxley ←→ Nasr           : même thèse (sophia perennis), Nasr depuis l'islam
+Nasr ←→ Panikkar         : dialogue inter-religieux — l'un ancré dans sa tradition, l'autre entre deux
+Panikkar ←→ Campbell     : universalité mythique — Campbell cherche le fond commun, Panikkar garde les différences
 Braudel ←→ Diamond       : environment shapes civilization — l'un par l'histoire, l'autre par la géographie
+Diamond ←→ Diop          : causes des divergences civilisationnelles — géographie vs. biais historiographique
 Christian ←→ Teilhard    : tous deux situent l'humain dans un arc évolutif cosmique
+Harari ←→ Diop           : histoire de Sapiens — biologie cognitive vs. Afrique comme civilisation fondatrice
 ```

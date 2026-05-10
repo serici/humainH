@@ -1,7 +1,7 @@
 # Index — Histoire de l'Humanité
 
 > Navigation hiérarchique. Chaque lien descend d'un niveau de détail.
-> Voir [CLAUDE.md](./CLAUDE.md) pour la vision du projet et les conventions.
+> Voir [la démarche du projet](./claude.md) pour l'angle d'analyse et la question centrale.
 
 ---
 
@@ -17,7 +17,7 @@
 |---------|---------|--------|
 | Préhistoire & Émergence humaine | [01-periodes/prehistoire.md](./01-periodes/prehistoire.md) | ☐ |
 | Premières Civilisations | [01-periodes/premieres-civilisations.md](./01-periodes/premieres-civilisations.md) | ☐ |
-| **Période Axiale** ★ | [01-periodes/periode-axiale.md](./01-periodes/periode-axiale.md) | ☐ |
+| **Période Axiale** | [01-periodes/periode-axiale.md](./01-periodes/periode-axiale.md) | ☐ |
 | Empires & Expansion | [01-periodes/empires-expansion.md](./01-periodes/empires-expansion.md) | ☐ |
 | Moyen Âge Mondial | [01-periodes/moyen-age-mondial.md](./01-periodes/moyen-age-mondial.md) | ☐ |
 | Révolutions Modernes | [01-periodes/revolutions-modernes.md](./01-periodes/revolutions-modernes.md) | ☐ |
