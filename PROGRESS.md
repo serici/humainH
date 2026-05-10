@@ -21,6 +21,7 @@
 ### L1 — Grandes Périodes
 - [x] `docs/01-periodes/prehistoire.md` — P1 : révolution cognitive, convergences symboliques, néolithique
 - [x] `docs/01-periodes/premieres-civilisations.md` — P2 : écriture (4 foyers), État, déluge, anomalie Indus, effondrement -1200
+- [x] `docs/01-periodes/periode-axiale.md` — P3 : règle d'or (6 formulations), Cent Écoles, divergences soi/politique, Armstrong vs. Sen
 
 ### Infrastructure
 - [x] Structure de répertoires
