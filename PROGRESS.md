@@ -18,6 +18,9 @@
 ### L0 — Vue Globale
 - [x] `docs/00-vue-globale.md` — vue d'ensemble + 5 questions universelles + arc des 7 périodes
 
+### L1 — Grandes Périodes
+- [x] `docs/01-periodes/prehistoire.md` — P1 : révolution cognitive, convergences symboliques, néolithique
+
 ### Infrastructure
 - [x] Structure de répertoires
 - [x] `CLAUDE.md` — instructions Claude CLI
