@@ -3,10 +3,11 @@
 ## Dernière Session
 - **Date** : 2026-05-10
 - **Travail** :
-  - Correction du lien cassé CLAUDE.md → docs/claude.md (nouvelle page publique démarche)
-  - Recentrage thématique : universalité comme grille d'analyse, Âge Axial comme exemple emblématique
-  - 5 nouveaux auteurs non-occidentaux : Sen, Diop, Tu Weiming, Nasr, Panikkar
-  - **L0** — `docs/00-vue-globale.md` : vue globale de l'histoire, fil comparatiste, arc des 7 périodes
+  - Correction du lien cassé CLAUDE.md → `docs/claude.md` (nouvelle page publique démarche du projet)
+  - Recentrage thématique : universalité comme grille d'analyse, Âge Axial comme exemple emblématique, non comme axe central
+  - 5 nouveaux auteurs non-occidentaux : Sen, Diop, Tu Weiming, Nasr, Panikkar — fiches sources + intégration dans les clusters
+  - **L0 complet** — `docs/00-vue-globale.md`
+  - **L1 complet** — 7 périodes rédigées (P1 → P7)
 
 ## Sessions Précédentes
 
@@ -84,16 +85,22 @@
 - [x] braudel, diamond, smil, mumford
 - [x] christian, teilhard, harari
 - [x] wilber
+- [x] **sen, diop, tu-weiming, nasr, panikkar** ← ajoutés session 2026-05-10
 
 ## Prochaine Session — Suggestions
 
-Le corpus principal (L0, L1, L2, L3, L4) n'a pas encore démarré.
-Plusieurs points d'entrée possibles selon l'envie :
+L0 et L1 sont complets. Les entrées possibles :
 
-1. **Écrire L0** — vue globale : toute l'histoire en une page, le fil philosophique
-2. **Commencer par la Période Axiale (L1-P3)** — cœur philosophique, ce qui a motivé le projet
-3. **Commencer par la Préhistoire (L1-P1)** — dans l'ordre chronologique
-4. **Ouvrir un premier thème (L3)** — le détachement, la figure du héros, les mythes fondateurs...
+1. **Ouvrir L3 — Thèmes transversaux** — fils qui traversent plusieurs périodes :
+   - La règle d'or (convergence universelle documentée en P3)
+   - La légitimité du pouvoir (roi-dieu → mandat céleste → droits naturels → élections)
+   - Le sacré et ses formes (rite → mystique → laïcité)
+   - Science et conscience (à partir de P7)
+2. **Descendre en L2** — une civilisation précise dans une période :
+   - Inde de la Période Axiale (bouddhisme, jaïnisme, Upanishads)
+   - Chine des Royaumes Combattants (Cent Écoles)
+   - Islam de l'Âge d'Or (Bagdad, synthèse)
+3. **Figures L4** — un penseur en profondeur (Ashoka, Confucius, Ibn Khaldun...)
 
 ## Publication ✓
 
